@@ -10,8 +10,8 @@ valor: real
 
 inicio
 repita
-   escreval("Digite 1 para converter quilômetros em metros")
-   escreval("Digite 2 para converter litros em metros cúbicos")
+   escreval("Digite 1 para converter quilômetro(s) em metro(s)")
+   escreval("Digite 2 para converter litros em metro(s) cúbico(s)")
    escreval("Digite 3 para sair do programa")
    leia (opcao)
 
